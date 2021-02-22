@@ -489,7 +489,7 @@ a {
     height: calc(100vh); }
   .site-blocks-cover.inner-page, .site-blocks-cover.inner-page .row {
     min-height: 600px;
-    height: calc(80vh); }
+    height: calc(60vh); }
   .site-blocks-cover .sub-text {
     font-size: 1.1rem;
     text-transform: uppercase;
